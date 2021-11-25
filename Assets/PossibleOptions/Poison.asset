@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cf53082ee41f96438112a978eb5320d, type: 3}
+  m_Name: Poison
+  m_EditorClassIdentifier: 
+  isOffensive: 1
+  isDefensive: 0
+  isHeal: 0
+  ghostMult: 0.5
+  effectsSelf: 0
+  _gpCost: 0.3
+  _coolDownTime: 4
+  statusTime: 3
+  _isInstant: 0
+  damageAmmount: 0.3
+  _statusName: Poison
